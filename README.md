@@ -8,7 +8,3 @@ Token data bisa diubah sesuai yang didapat dari twitter developer, seperti:
 - access_token_secret 
 
 Saya menyimpan token data ke dalam file csv, bisa diikuti atau langsung dimasukan ke program. Untuk direktori penyimpanan bisa disesuaikan sendiri.
-
-#sql connection
-connect = sqlite3.connect("Documents/Studi Cases/DB Browser SQLite/analisis_publik.db")
-cursor = connect.cursor()
