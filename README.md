@@ -1,8 +1,13 @@
-## Software yang digunakan adalah Jupyter Notebook dengan environment dari Anaconda, program juga bisa dijalankandi Google Colab atau Software yang mendukung format python notebook .ipynb
-#
-#
 # DataScience_Project2
-Analisis Opini Publik Yang di Scraping dari Twitter Menggunakan Python
+#
+#
+### Running Program
+- Software yang digunakan adalah Jupyter Notebook dengan environment dari Anaconda, 
+- Program juga bisa dijalankan di Google Colab atau 
+- Software yang mendukung format python notebook ```python .ipynb ```
+#
+#
+### Analisis Opini Publik Yang di Scraping dari Twitter Menggunakan Python
 
 Token data bisa diubah sesuai yang didapat dari twitter developer, seperti:
 - consumer_key,
