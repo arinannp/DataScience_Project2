@@ -4,7 +4,7 @@
 ### Running Program
 - Software yang digunakan adalah Jupyter Notebook dengan environment dari Anaconda, 
 - Program juga bisa dijalankan di Google Colab atau 
-- Software yang mendukung format python notebook ```python .ipynb ```
+- Software yang mendukung format python notebook ``` .ipynb ```
 #
 #
 ### Analisis Opini Publik Yang di Scraping dari Twitter Menggunakan Python
