@@ -1,3 +1,6 @@
+## Software yang digunakan adalah Jupyter Notebook dengan environment dari Anaconda, program juga bisa dijalankandi Google Colab atau Software yang mendukung format python notebook .ipynb
+#
+#
 # DataScience_Project2
 Analisis Opini Publik Yang di Scraping dari Twitter Menggunakan Python
 
